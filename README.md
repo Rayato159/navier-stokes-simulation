@@ -1,10 +1,20 @@
 # Navier-Stokes Simulation💧
 
-![screenshot](./assets/screenshot.png)
+![screenshot](./assets/present.png)
 
 Welcome to **Rusty Fluids 2D**, where we flex our brain cells and GPUs to simulate Navier-Stokes equations.
 
 Powered by Rust 🦀 and Bevy 🚀, this project is your gateway to fluid dynamics with vibes.
+
+## 📚 Conditions
+
+- Steady flow.
+- Incompressible flow.
+- No gravity effects.
+- Pressure gradient is exists.
+- Boundary conditions are y=[0, b].
+- u(y) = U at y=0; u(y) = 0 at y=b.
+- Using metric units.
 
 ## 🚀 WASM Demo
 
