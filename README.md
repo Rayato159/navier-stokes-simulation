@@ -1,8 +1,8 @@
-# Navier-Stokes Simulation💧
+# Navier-Stokes 2D Simulation💧
 
 ![screenshot](./assets/present.png)
 
-Welcome to **Rusty Fluids 2D**, where we flex our brain cells and GPUs to simulate Navier-Stokes equations.
+Welcome to **Navier-Stokes 2D Simulation**, where we flex our brain cells and GPUs to simulate Navier-Stokes equations.
 
 Powered by Rust 🦀 and Bevy 🚀, this project is your gateway to fluid dynamics with vibes.
 
