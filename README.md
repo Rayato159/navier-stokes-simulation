@@ -6,6 +6,10 @@ Welcome to **Rusty Fluids 2D**, where we flex our brain cells and GPUs to simula
 
 Powered by Rust 🦀 and Bevy 🚀, this project is your gateway to fluid dynamics with vibes.
 
+## 🚀 WASM Demo
+
+https://rayato159.github.io/navier-stokes-simulation/
+
 ## 🎯 What's the Vibe?
 
 We're talking 2D fluid sims that are smoother than your morning coffee pour.
