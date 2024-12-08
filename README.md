@@ -32,8 +32,8 @@ We're talking 2D fluid sims that are smoother than your morning coffee pour.
 1. Clone the Repo 🖥️
 
    ```bash
-   git clone https://github.com/your_username/rusty-fluids-2d.git
-   cd rusty-fluids-2d
+   git clone https://github.com/Rayato159/navier-stokes-simulation.git
+   cd navier-stokes-simulation
    ```
 
 2. Run the Simulation 🚀
