@@ -52,3 +52,8 @@ We're talking 2D fluid sims that are smoother than your morning coffee pour.
 - **Real-time 2D fluid simulation**: Smooth and satisfying, like butter on pancakes.
 - **Customizable parameters**: Adjust dynamics viscosity, pressure rate, and more.
 - **Bevy-powered rendering**: Leverages the ECS magic for clean visuals and top-tier performance.
+
+## 📑 References
+
+- https://www.grc.nasa.gov/www/k-12/airplane/nseqs.html
+- https://www.simscale.com/docs/simwiki/numerics-background/what-are-the-navier-stokes-equations/
