@@ -1,12 +1,14 @@
 # Navier-Stokes 2D Simulation💧
 
-![screenshot](./assets/present.png)
+![flowprofile](./assets/cover.png)
 
 Welcome to **Navier-Stokes 2D Simulation**, where we flex our brain cells and GPUs to simulate Navier-Stokes equations.
 
 Powered by Rust 🦀 and Bevy 🚀, this project is your gateway to fluid dynamics with vibes.
 
 ## 📚 Conditions
+
+![flowprofile](./assets/present-v2.png)
 
 - Steady flow.
 - Incompressible flow.
@@ -15,6 +17,12 @@ Powered by Rust 🦀 and Bevy 🚀, this project is your gateway to fluid dynami
 - Boundary conditions are y=[0, b].
 - u(y) = U at y=0; u(y) = 0 at y=b.
 - Using metric units.
+
+## 📝 Flow Profile
+
+$$
+u(y) = \frac{1}{2\mu} \nabla p \left(b^2 - by\right) + U \left(1 - \frac{y}{b}\right)
+$$
 
 ## 🚀 WASM Demo
 
