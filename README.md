@@ -28,6 +28,10 @@ $$
 
 https://rayato159.github.io/navier-stokes-simulation/
 
+## 📝 Presentation
+
+[PDF Slide](/presentation.pdf)
+
 ## 🎯 What's the Vibe?
 
 We're talking 2D fluid sims that are smoother than your morning coffee pour.
